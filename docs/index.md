@@ -1,0 +1,2 @@
+* Bookshelf (Japanese)
+* Memos (Japanese)
