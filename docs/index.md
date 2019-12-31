@@ -1,2 +1,1 @@
-- [Bookshelf (Japanese)](/bookshelf/index.md)
 - Memos (Japanese)
