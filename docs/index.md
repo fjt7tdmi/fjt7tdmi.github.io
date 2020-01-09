@@ -9,5 +9,6 @@
   - [Rust 版エミュレータ](https://github.com/fjt7tdmi/rafi-emu-rust)
 - 学生時代に参加していた CPU 開発プロジェクト
   - [RSD](https://github.com/rsd-devel/rsd)
+    - [参加したプロセッサコンテストのページ (優勝)](http://www.arch.cs.titech.ac.jp/contest/)
 - その他
   - [Google Nest Hub に GitHub の草を表示する](https://github.com/fjt7tdmi/grass-photo)
