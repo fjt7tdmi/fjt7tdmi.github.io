@@ -6,6 +6,7 @@
 - RISCV CPU の独自実装関連
   - [C++ 版エミュレータ & SystemVerilog 実装](https://github.com/fjt7tdmi/rafi-1st)
   - [C# 版エミュレータ](https://github.com/fjt7tdmi/rafi-emu-csharp)
+  - [Python 版エミュレータ](https://github.com/fjt7tdmi/rafi-emu-python)
   - [Rust 版エミュレータ](https://github.com/fjt7tdmi/rafi-emu-rust)
 - 学生時代に参加していた CPU 開発プロジェクト
   - [RSD](https://github.com/rsd-devel/rsd)
