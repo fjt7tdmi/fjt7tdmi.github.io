@@ -13,3 +13,4 @@
     - [情報処理学会プロセッサ設計コンテストにて優勝 (2014)](http://www.arch.cs.titech.ac.jp/contest/)
 - その他
   - [Google Nest Hub に GitHub の草を表示する](https://github.com/fjt7tdmi/grass-photo)
+  - [VoiAlarm (音声合成ソフトを起動できる Windows アラームアプリ)](https://github.com/fjt7tdmi/voi-alarm)
