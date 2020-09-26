@@ -5,20 +5,34 @@ theme = "soho"
 
 [params]
 author = "Akifumi Fujita"
-description = "Portfolio"
+description = "A system programmer, loves CPU."
 copyright = "Akifumi Fujita"
+mainSections = ["posts"]
 
-[[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/fjt7tdmi"
+    [[params.socialIcons]]
+    icon = "fa-github"
+    title = "GitHub"
+    url = "https://github.com/fjt7tdmi"
 
-[[params.socialIcons]]
-icon = "fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/fjt7tdmi/"
+    [[params.socialIcons]]
+    icon = "fa-linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/fjt7tdmi/"
 
-[[params.socialIcons]]
-icon = "fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/fjt7tdmi"
+    [[params.socialIcons]]
+    icon = "fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/fjt7tdmi"
+
+[menu]
+    [[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+
+    [[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 300
+    url = "/portfolio/"
