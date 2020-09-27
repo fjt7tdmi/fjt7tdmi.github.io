@@ -3,6 +3,9 @@ languageCode = "ja-JP"
 title = "Akifumi Fujita"
 theme = "soho"
 
+summarylength = 10
+enableEmoji = true
+
 [params]
 author = "Akifumi Fujita"
 description = "A system programmer, loves CPU."
