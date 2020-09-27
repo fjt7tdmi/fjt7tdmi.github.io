@@ -11,6 +11,7 @@ author = "Akifumi Fujita"
 description = "A system programmer, loves CPU."
 copyright = "Akifumi Fujita"
 mainSections = ["posts"]
+profilePicture = "images/profile.jpg"
 
     [[params.socialIcons]]
     icon = "fa-github"
