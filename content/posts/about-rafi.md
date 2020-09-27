@@ -1,7 +1,6 @@
 ---
 title: "About RAFI Project"
 date: 2020-09-26T15:48:44+09:00
-draft: true
 ---
 
 RAFI は私の個人的な RISCV プロセッサ・エミュレータ開発プロジェクトの総称です。
